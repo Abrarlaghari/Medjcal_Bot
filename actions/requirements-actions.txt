@@ -1,0 +1,4 @@
+pymongo
+cx_Oracle
+requests
+libaio

@@ -1,0 +1,54 @@
+give me 5 different ways to say " "
+
+q1
+How much is the overall deductible?
+What is the total deductible?
+What is the maximum deductible?
+What is the overall out-of-pocket cost?
+How much do I need to pay for covered services?
+
+q2
+Are there any covered services before the deductible is met?
+What services are covered before the deductible is met?
+Are expenses incurred before the deductible is met covered?
+Is there coverage before the deductible is reached?
+Are there benefits before the deductible is met?
+
+q3
+Is there an additional deductible for certain services?
+Are there any additional costs for certain services?
+Are there any other deductibles for certain services?
+Are there any extra costs for certain services?
+Are there any extra deductibles for certain services?
+
+q4
+How much is the maximum out-of-pocket cost?
+What is the total out-of-pocket expense?
+How much do I need to pay for covered services?
+What is the overall out-of-pocket limit?
+What is the maximum amount I need to pay for covered services?
+
+
+q5
+What expenses are not included in the out-of-pocket limit?
+Are there any services excluded from the out-of-pocket maximum?
+What is not covered by the out-of-pocket limit?
+What expenses are excluded from the out-of-pocket limit?
+Are there any services not included in the out-of-pocket limit?
+
+
+q6
+Is there a discount if I use a network provider?
+What savings can I get if I use a network provider?
+Are there any savings for using a network provider?
+Are there any benefits if I use a network provider?
+Is there a cost reduction if I use a network provider?
+
+q7
+Is a referral required for seeing a specialist?
+Do I need to be referred to a specialist?
+Is a referral necessary to see a specialist?
+Do I need to get a referral to see a specialist?
+Is a referral needed for a specialist visit?
+
+
